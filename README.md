@@ -112,11 +112,11 @@ and then, put it on my page. At first, Air Jordan.
                <h2>Aj shoes are nice</h2>
                   <div class="row">
                         <div class="col-md-6">
-                            <img class="img-responsive" src="images/chicago.jpg" alt="Witch">
+                            <img class="img-responsive" src="images/chicago.jpg" alt="Chicago">
                         </div>
 
                         <div class="col-md-6">
-                            <img class="img-responsive" src="images/bred.jpg" alt="Suburban" >
+                            <img class="img-responsive" src="images/bred.jpg" alt="Bred" >
                         </div>
                     </div> 
             </div>
@@ -142,11 +142,11 @@ The "Vans" page. I also put two photos on my page
                    <h2>I also like Vans</h2>
                   <div class="row">
                         <div class="col-md-6">
-                            <img class="img-responsive" src="images/vans1.jpg" alt="Witch">
+                            <img class="img-responsive" src="images/vans1.jpg" alt="vans">
                         </div>
 
                         <div class="col-md-6">
-                            <img class="img-responsive" src="images/vans2.jpeg" alt="Suburban" >
+                            <img class="img-responsive" src="images/vans2.jpeg" alt="vans" >
                         </div>
          
 ```
